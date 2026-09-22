@@ -1,0 +1,2 @@
+# Ignore all pipeline data (raw downloads + processed outputs)
+data/
